@@ -1,0 +1,17 @@
+{
+  "name": "shopee-bot",
+  "version": "1.0.0",
+  "description": "Shopee Flash Sale Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "Shopee"
+  ],
+  "author": "Fahrul Ramadhan Putra",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
